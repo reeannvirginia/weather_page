@@ -1,0 +1,30 @@
+
+ body {
+   color: #ffffff;
+   text-align: center;
+   font-family: sans-serif;
+   padding: 0 20em;
+   }
+
+.rainy {
+  background-image: url(https://github.com/wyncode/student-resources/raw/master/technical_one_on_ones/week4/rainy.jpg);
+}
+
+.cloudy {
+  background-image: url(https://github.com/wyncode/student-resources/raw/master/technical_one_on_ones/week4/cloudy.jpg);
+}
+
+.sunny {
+  background-image: url(https://github.com/wyncode/student-resources/raw/master/technical_one_on_ones/week4/sunny.jpg);
+  background-size: cover;
+}
+
+#DateTime {
+  margin: 5em 0 5em 0;
+  width: 100%;
+}
+
+#Temp {
+  width: 100%;
+  font-size: 50pt;
+}
